@@ -4,8 +4,8 @@ Database Management Projects
 This assignment makes use of data generously provided by Yelp about donut shops located in the United States.
 Yelp provided a sample of their data for use to use. 
 I will not use this data outside of class.
-*The schema is yelp_donut
-*Table has following contents: name				text not null
+* The schema is yelp_donut
+* Table has following contents: name				text not null
 	, latitude			float
 	, longitude			float
 	, city				text null
