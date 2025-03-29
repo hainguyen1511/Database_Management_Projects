@@ -1,2 +1,2 @@
-# Hai-s_portfolio
+# Hai's portfolio
 Database Management Projects
