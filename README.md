@@ -46,3 +46,4 @@ Capabilities my database design must support include:
 	b.	To record labels (who distribute it to artists/performers).
 > 8.	Play counts (for payment to artists). We need to be able to count the number of times a song has been played each month for each artist.
 > 9.	Play counts, to let users know their most/least listened songs. We need to be able to count how many times a user has played each song in a month.
+
